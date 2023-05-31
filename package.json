@@ -8,6 +8,7 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "@datadog/mobile-react-native": "^1.6.0",
     "dd-sdk-reactnative": "^1.0.0-beta1",
     "expo": "~41.0.1",
     "expo-status-bar": "~1.0.4",
